@@ -10,7 +10,6 @@
         });
 
         $('#linkStreetLights').click(function() {
-		alert("checking location");
 		try {
             resfreshStreetLightPosition();
 			}
